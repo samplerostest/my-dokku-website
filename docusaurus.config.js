@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RoS Documentation',
-  tagline: 'robot operating system',
+  title: 'RoS Documentations',
+  tagline: 'robot operating systems',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
