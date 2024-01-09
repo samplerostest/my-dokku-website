@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RoS Documentations',
+  title: 'RoS Documentations pc2',
   tagline: 'robot operating systems',
   favicon: 'img/favicon.ico',
 
